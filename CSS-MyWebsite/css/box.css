@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+}
+.red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.blue{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: fixed;
+  left: 200px;
+  top: 200px
+}
+
+.yellow{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+}
+
+.green{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  position: fixed;
+  left: 300px;
+  top: 200px;
+}
+
+.violet{
+  height: 100px;
+  width: 100px;
+  background-color: violet;
+  position: absolute;
+  left: 400px;
+  top: 100px
+}
+
+#orange{
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+  position: absolute;
+  left: 500px;
+}
